@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1562633325 source:d:\documentos\desktop\escritorio\c++\operadores_basicos\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cmath>
+
